@@ -54,7 +54,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizpFelipe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LuizpFelipe&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições">
+  <img src="https://img.shields.io/github/followers/LuizpFelipe?style=for-the-badge&logo=github&labelColor=0d1117&color=1f6feb" alt="Seguidores">
+  <img src="https://img.shields.io/github/last-commit/LuizpFelipe/react-zezao?style=for-the-badge&logo=git&labelColor=0d1117&color=1f6feb&label=%C3%BAltimo%20commit" alt="Último commit">
 </p>
 <h2>🚀 Em destaque</h2>
 <ul>
